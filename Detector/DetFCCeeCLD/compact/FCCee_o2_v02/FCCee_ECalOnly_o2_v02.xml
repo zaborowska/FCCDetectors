@@ -31,10 +31,8 @@
 
   <include ref="./FCCee_DectDimensions.xml" />
 
-  <include ref="../../../DetFCCeeCommon/compact/Beampipe.xml"/>
-
   <include ref="ECalBarrel.xml"/>
-  <include ref="ECalEndcap.xml"/>
+  <!-- <include ref="ECalEndcap.xml"/> -->
 
 
 </lccdd>

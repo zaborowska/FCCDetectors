@@ -42,8 +42,8 @@
             <comment>EM Calorimeter Barrel</comment>
             
 
-            <sensitive type="FastSimCalorimeterSD"/>
             <type_flags type=" DetType_CALORIMETER + DetType_ELECTROMAGNETIC + DetType_BARREL"/>
+            <sensitive type="DynamicMeshCalorimeterSD"/>
 
 
             <envelope vis="ECALVis">
